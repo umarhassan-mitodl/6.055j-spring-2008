@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on books, papers, and comic strips
   on topics related to the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -33,4 +31,4 @@ West, Geoffrey B., James H. Brown, and Brian J. Enquist. "The Fourth Dimension o
 Interesting comic strips
 ------------------------
 
-[Dangers of the resistive grid](http://xkcd.com/356/) (See also Problem 6 in Homework 4 of {{% resource_link 2afcfea1-a711-32da-b776-54e025224ccc "assignments" %}}.)
+{{% resource_link "15939c19-92ba-43ba-836d-3c5087d07da4" "Dangers of the resistive grid" %}} (See also Problem 6 in Homework 4 of {{% resource_link 2afcfea1-a711-32da-b776-54e025224ccc "assignments" %}}.)

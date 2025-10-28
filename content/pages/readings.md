@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the required text, readings by sessions,
   and additional readings on singing logarithms and physical constants.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -29,7 +27,7 @@ The notes used in this course have now been enhanced and published in book form 
 
 The book is also available in paperback for purchase:
 
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262526548) Mahajan, Sanjoy. _The Art of Insight in Science and Engineering: Mastering Complexity_. MIT Press, 2014. ISBN: 9780262526548.
+*   {{% resource_link "64cfe6f3-d57f-40a4-86c3-8b8fe3a3fd15" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mahajan, Sanjoy. _The Art of Insight in Science and Engineering: Mastering Complexity_. MIT Press, 2014. ISBN: 9780262526548.
 
 ### As Used in This Course (2008)
 
